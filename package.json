@@ -36,7 +36,7 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "passport-oauth2": "kubesail/passport-oauth2#4afd79f4d88b30fb1aba75c27e67b2b96b9a8f5c"
+    "passport-oauth2": "kubesail/passport-oauth2#7b49bac8d1920084463f8c3d7e3d025c24c23e06"
   },
   "devDependencies": {
     "mocha": "1.x.x",
